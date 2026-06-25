@@ -1,9 +1,9 @@
 
 ![Banner](./Jacqueline_Montano_Banner.png)
 
-<h1 align="center"> Hi, I'm Jacqueline Montano </h1>
+<h1 align="center"> Hi, I'm Jacqueline </h1>
 
-Cybersecurity Engineer with 8+ years of experience supporting mission-critical environments across federal and critical infrastructure sectors. My background spans security operations and detection engineering, with a focus on improving the effectiveness of enterprise cyber defense capabilities.
+I'm a Cybersecurity Engineer with 8+ years of experience supporting mission-critical environments across federal and critical infrastructure sectors. My background spans security operations and detection engineering, with a focus on improving the effectiveness of enterprise cyber defense capabilities.
 
 I am particularly interested in the intersection of threat-informed defense, security assurance, continuous monitoring, and detection engineering. Beyond developing detections, I enjoy evaluating how security programs operate at scale — assessing telemetry visibility, measuring detection effectiveness, identifying capability gaps, and developing frameworks that improve operational maturity.
 
