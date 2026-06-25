@@ -1,4 +1,7 @@
-## Hi, I'm Jacqueline Montano
+
+![Banner](./Jacqueline Montano Banner.png)
+
+<h1 align="center"> Hi, I'm Jacqueline Montano </h1>
 
 Cybersecurity Engineer with 8+ years of experience supporting mission-critical environments across federal and critical infrastructure sectors. My background spans security operations and detection engineering, with a focus on improving the effectiveness of enterprise cyber defense capabilities.
 
