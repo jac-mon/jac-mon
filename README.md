@@ -22,7 +22,9 @@ I am particularly interested in the intersection of threat-informed defense, sec
 ---
 
 ## Tech Stack
+
 **Governance & Compliance**
+
 ![Continuous Monitoring](https://img.shields.io/badge/Continuous%20Monitoring-00599C?style=flat-square&logo=securityscorecard&logoColor=white)
 ![Gap Analysis](https://img.shields.io/badge/Gap%20Analysis-4B5563?style=flat-square)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-000000?style=flat-square&logo=mitre&logoColor=white)
@@ -31,6 +33,7 @@ I am particularly interested in the intersection of threat-informed defense, sec
 ![NIST RMF](https://img.shields.io/badge/NIST%20RMF-003366?style=flat-square)
 
 **Platforms & Technologies**
+
 ![Microsoft Security Suite](https://img.shields.io/badge/Microsoft%20Security-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
 ![SentinelOne](https://img.shields.io/badge/SentinelOne-7D4CDB?style=flat-square&logo=sentinelone&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=flat-square&logo=servicenow&logoColor=white)
@@ -39,6 +42,7 @@ I am particularly interested in the intersection of threat-informed defense, sec
 ![YARA](https://img.shields.io/badge/YARA-D32F2F?style=flat-square)
 
 **Security Operations**
+
 ![Alert Triage](https://img.shields.io/badge/Alert%20Triage-1976D2?style=flat-square)
 ![Detection Management](https://img.shields.io/badge/Detection%20Management-512DA8?style=flat-square)
 ![Incident Response](https://img.shields.io/badge/Incident%20Response-C62828?style=flat-square)
