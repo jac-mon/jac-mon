@@ -1,5 +1,5 @@
 
-![Banner](./Jacqueline Montano Banner.png)
+![Banner](./Jacqueline_Montano_Banner.png)
 
 <h1 align="center"> Hi, I'm Jacqueline Montano </h1>
 
