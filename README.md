@@ -1,57 +1,48 @@
+<h1 align="center"> Hi, I'm Jacqueline 👋</h1>
 
-![Banner](./Jacqueline_Montano_Banner.png)
+I'm a Detection Engineer with 8+ years of cybersecurity experience across detection engineering, SIEM/security analytics, threat-informed coverage, telemetry quality, and security operations.
 
-<h1 align="center"> Hi, I'm Jacqueline </h1>
+My work focuses on treating detections as an operational lifecycle, from research and development through testing, tuning, monitoring, maintenance, coverage review, and continuous improvement.
 
-I'm a Cybersecurity Engineer with 8+ years of experience supporting mission-critical environments across federal and critical infrastructure sectors. My background spans security operations and detection engineering, with a focus on improving the effectiveness of enterprise cyber defense capabilities.
-
-I am particularly interested in the intersection of threat-informed defense, security assurance, continuous monitoring, and detection engineering. Beyond developing detections, I enjoy evaluating how security programs operate at scale — assessing telemetry visibility, measuring detection effectiveness, identifying capability gaps, and developing frameworks that improve operational maturity.
+I'm particularly interested in how detection quality, security telemetry, threat intelligence, analyst workflows, and operational visibility work together to improve defensive capability. I also explore how detection-engineering research and maturity concepts can be translated into practical assessment, measurement, and improvement strategies.
 
 ---
 
 ## 📌 Areas of Focus
-
-- Detection Engineering & Security Operations
-- MITRE ATT&CK and Threat-Informed Defense
-- SIEM Engineering, Health Assessments, and Continuous Monitoring
-- Security Assurance & Control Effectiveness Evaluation
-- Security Program Maturity and Operational Metrics
-- Governance, Risk, and Compliance (RMF / NIST 800-53)
-- Cybersecurity Strategy and Defensive Capability Development 
+- Detection Engineering Lifecycle Management
+- Detection Strategy & Threat-Informed Coverage
+- SIEM & Security Analytics
+- Detection Health, Tuning & Maintainability
+- Security Telemetry Quality & Normalization
+- Threat Intelligence & Targeted Threat Hunting
+- Security Process Improvement & Operational Visibility
+- Detection Engineering Research & Maturity Assessment
 
 ---
 
-## Tech Stack
+## 🛠️ Technologies & Practices
 
-**Governance & Compliance**
+### Detection & Security Analytics
 
-![Continuous Monitoring](https://img.shields.io/badge/Continuous%20Monitoring-00599C?style=flat-square&logo=securityscorecard&logoColor=white)
-![Gap Analysis](https://img.shields.io/badge/Gap%20Analysis-4B5563?style=flat-square)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-000000?style=flat-square&logo=mitre&logoColor=white)
-![NIST 800-53](https://img.shields.io/badge/NIST%20800--53-003366?style=flat-square)
-![NIST CSF](https://img.shields.io/badge/NIST%20CSF-003366?style=flat-square)
-![NIST RMF](https://img.shields.io/badge/NIST%20RMF-003366?style=flat-square)
-
-**Platforms & Technologies**
-
-![Microsoft Security Suite](https://img.shields.io/badge/Microsoft%20Security-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
+![Splunk Enterprise Security](https://img.shields.io/badge/Splunk%20Enterprise%20Security-000000?style=flat-square&logo=splunk&logoColor=white)
 ![SentinelOne](https://img.shields.io/badge/SentinelOne-7D4CDB?style=flat-square&logo=sentinelone&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=flat-square&logo=servicenow&logoColor=white)
-![Sigma](https://img.shields.io/badge/Sigma-FF6F00?style=flat-square)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![YARA](https://img.shields.io/badge/YARA-D32F2F?style=flat-square)
-
-**Security Operations**
-
-![Alert Triage](https://img.shields.io/badge/Alert%20Triage-1976D2?style=flat-square)
-![Detection Management](https://img.shields.io/badge/Detection%20Management-512DA8?style=flat-square)
-![Incident Response](https://img.shields.io/badge/Incident%20Response-C62828?style=flat-square)
-![Log Management](https://img.shields.io/badge/Log%20Management-455A64?style=flat-square)
-![Risk Analysis](https://img.shields.io/badge/Risk%20Analysis-E65100?style=flat-square)
-![SIEM Monitoring](https://img.shields.io/badge/SIEM%20Monitoring-1565C0?style=flat-square)
-![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-6A1B9A?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-000000?style=flat-square&logo=mitre&logoColor=white)
 ![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-283593?style=flat-square)
-![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-00897B?style=flat-square)
+![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-6A1B9A?style=flat-square)
+![Detection Coverage](https://img.shields.io/badge/Detection%20Coverage-3949AB?style=flat-square)
+![Telemetry Analysis](https://img.shields.io/badge/Telemetry%20Analysis-455A64?style=flat-square)
+
+### Security Engineering
+
+![Detection Lifecycle](https://img.shields.io/badge/Detection%20Lifecycle-1565C0?style=flat-square)
+![Detection Health](https://img.shields.io/badge/Detection%20Health-2E7D32?style=flat-square)
+![Detection Tuning](https://img.shields.io/badge/Detection%20Tuning-00897B?style=flat-square)
+![Telemetry Quality](https://img.shields.io/badge/Telemetry%20Quality-455A64?style=flat-square)
+![Data Normalization](https://img.shields.io/badge/Data%20Normalization-546E7A?style=flat-square)
+![Operational Visibility](https://img.shields.io/badge/Operational%20Visibility-5C6BC0?style=flat-square)
+![Security Process Improvement](https://img.shields.io/badge/Security%20Process%20Improvement-6D4C41?style=flat-square)
+![Analyst Enablement](https://img.shields.io/badge/Analyst%20Enablement-8E24AA?style=flat-square)
 
 ---
 
