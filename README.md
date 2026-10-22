@@ -43,19 +43,3 @@ I'm particularly interested in how detection quality, security telemetry, threat
 ![Operational Visibility](https://img.shields.io/badge/Operational%20Visibility-5C6BC0?style=flat-square)
 ![Security Process Improvement](https://img.shields.io/badge/Security%20Process%20Improvement-6D4C41?style=flat-square)
 ![Analyst Enablement](https://img.shields.io/badge/Analyst%20Enablement-8E24AA?style=flat-square)
-
----
-
-## 🔧 Current Projects
-
-| Project | Description |
-|---------|-------------|
-| [threat-control-mapper](https://github.com/jac-mon/threat-control-mapper) | CLI tool mapping Sigma detection rules to NIST 800-53 controls and generating coverage gap reports |
-| ↳ [attack-control-framework-mappings](https://github.com/jac-mon/attack-control-framework-mappings) | Forked CTID dataset — foundational ATT&CK → 800-53 mapping reference |
-
-<!-- | Detection Engineering & Continuous Monitoring Assessment Framework | 🔄 In Progress | — |
-| SIEM Health Assessment Methodology | 📋 Planned | — |
-| Security Monitoring Maturity Model | 📋 Planned | — |
-| Detection Coverage & Gap Analysis Framework | 📋 Planned | — |
-| Threat-Informed Defense Research | 📋 Planned | — | -->
-
